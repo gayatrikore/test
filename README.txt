@@ -1,3 +1,4 @@
-This repository is for my git-work.
+This is readme file for test project.
+some changes are updated.
 
 
